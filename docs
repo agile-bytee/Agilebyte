@@ -1,1 +1,7 @@
+# Mimari Özeti (Sprint 0)
+
+Amaç: DB → API → UI uçtan uca minimal akış.
+
+Bu sprintte sadece proje yapısı oluşturulmuştur.
+Sprint 1'de SystemMessages tablosundan mesaj okunacaktır.
 
